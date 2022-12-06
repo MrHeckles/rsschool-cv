@@ -39,3 +39,4 @@ __University:__ Technical University of Moldova, Telecommunications Engineer
 __English__ - __B2__
 __Russian__ - __Native__
 __French__  - __A1__
+
