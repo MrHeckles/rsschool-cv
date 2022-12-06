@@ -37,7 +37,7 @@ echo -n “Hello, world!”
 __University:__ Technical University of Moldova, Telecommunications Engineer
 
 ## Language knowledge
-__English__ - __B2__
-__Russian__ - __Native__
-__French__  - __A1__
+* __English__ - __B2__
+* __Russian__ - __Native__
+* __French__  - __A1__
 
