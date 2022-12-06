@@ -1,5 +1,5 @@
 # __Alexey Shulenkov__
-![face](/blob/gh-pages/face.png)
+![face](face.png)
 
 ## __Contacts__
 - __GitHub:__ [MrHeckles](https://github.com/MrHeckles)
