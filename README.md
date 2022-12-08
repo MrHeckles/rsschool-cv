@@ -1,2 +1,1 @@
-# rsschool-cv
-[CV](https://MrHeckles.github.io/rsschool-cv/cv)
+https://mrheckles.github.io/rsschool-cv/index.html
